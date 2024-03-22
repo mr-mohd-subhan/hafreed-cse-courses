@@ -96,17 +96,18 @@ h1 {
     }
 
     nav {
-        height: 100px;
+        height: 120px;
     }
 
     iframe {
-        height: 35vw;
-        width: 35vh;
+        height: 150px;
+        width: 250px;
     }
 
     a {
         margin: 30px;
         font-size: smaller;
+        text-align: center;
     }
 
     .line {
